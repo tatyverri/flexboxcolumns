@@ -1,2 +1,2 @@
-# flexboxcolumns
-IBAT
+# twocolumns
+Two columns
